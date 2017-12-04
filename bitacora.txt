@@ -6,6 +6,22 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(03)   branch Historia000            No me desplazo a ellas cuando las creo
+(04)   branch Historia001
+(05)   checkout Historia000          Como tenía cambiados el nombre y Apellidos
+                                     he realizado un stash para poder recuperarlos
+                                     al volver a master. (así evito hacer commit)
+ (07)   add bitacora.txt
+ (08)   commit
+ (09)   checkout Historia001
+
+ (11)   stash + checkout Historia000  Hago un stash para recuperar los cambios
+                                       del paso 10 más adelante.
+ (16)   stash apply
+
+ (20)   merge                         de manera recursiva, habia que resolver
+                                      conflictos en el archivo bitacora.txt,
+                                      una vez resueltos se hace el commit
  (25)                                 fast-fordward ya que no hay nada nuevo en
                                       el archivo bitacora.txt en master y no se
                                       producirian conflictos
