@@ -11,3 +11,6 @@
  (05)   checkout Historia000          Como tenía cambiados el nombre y Apellidos
                                       he realizado un stash para poder recuperarlos
                                       al volver a master. (así evito hacer commit)
+
+(11)   stash + checkout Historia000  Hago un stash para recuperar los cambios
+                                      del paso 10 más adelante.
