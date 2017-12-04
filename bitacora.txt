@@ -18,3 +18,7 @@
  (11)   stash + checkout Historia000  Hago un stash para recuperar los cambios
                                        del paso 10 más adelante.
  (16)   stash apply
+
+ (20)   merge                         de manera recursiva, habia que resolver
+                                      conflictos en el archivo bitacora.txt,
+                                      una vez resueltos se hace el commit 
