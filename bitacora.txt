@@ -1,7 +1,7 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Sobaler Cuerno, Elisa):                                      %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
@@ -35,3 +35,6 @@
  (31)   merge                         merge de manera recursiva, ya que habia
                                       que resolver conflictos en bitacora.txt
                                       y por ello realizar un commit
+
+ (nuevo) apply stash                  recupero el stash con el nombre y los
+                                      apellidos y hago commit nuevo
