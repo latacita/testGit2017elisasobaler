@@ -9,3 +9,9 @@
  (25)                                 fast-fordward ya que no hay nada nuevo en
                                       el archivo bitacora.txt en master y no se
                                       producirian conflictos
+
+ (27)   tag                           boton derecho en el commit que se quiera
+                                      etiquetar y darle a Tag. Añadir como nombre
+                                      RespuestaPreguntaFusion
+ (28)   push                          para subir la etiqueta he pulsado boton
+                                      derecho en la etiqueta y push to origin
