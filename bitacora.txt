@@ -31,3 +31,7 @@
                                       RespuestaPreguntaFusion
  (28)   push                          para subir la etiqueta he pulsado boton
                                       derecho en la etiqueta y push to origin
+
+ (31)   merge                         merge de manera recursiva, ya que habia
+                                      que resolver conflictos en bitacora.txt
+                                      y por ello realizar un commit
