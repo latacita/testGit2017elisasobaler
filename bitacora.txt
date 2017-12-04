@@ -6,3 +6,6 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (25)                                 fast-fordward ya que no hay nada nuevo en
+                                      el archivo bitacora.txt en master y no se
+                                      producirian conflictos
