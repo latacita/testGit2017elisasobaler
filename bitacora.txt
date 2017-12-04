@@ -6,3 +6,8 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (03)   branch Historia000            No me desplazo a ellas cuando las creo
+ (04)   branch Historia001
+ (05)   checkout Historia000          Como tenía cambiados el nombre y Apellidos
+                                      he realizado un stash para poder recuperarlos
+                                      al volver a master. (así evito hacer commit)
